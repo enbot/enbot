@@ -15,4 +15,4 @@ This project follows some guidelines:
 * Have a preview of the prevailing feeling in the application.
 
 ## License
-This project code is under [MIT](https://github.com/enbot/bundle/blob/master/LICENSE) license, except for the used dataset described previously that is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The project code is under [MIT](https://github.com/enbot/bundle/blob/master/LICENSE) license, except for the used dataset that is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
